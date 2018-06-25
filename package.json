@@ -1,6 +1,6 @@
 {
   "name": "@dwauth/token",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "dwAuth Library For Creating and Verifying JWT Tokens via dwAuth.",
   "contributors": [
     "Jared Rice Sr. <jared@dwebs.io>",
